@@ -1,0 +1,33 @@
+Name:Hanwen Wang
+ID:260778557
+
+Enter number to be converted: 255
+Enter base to convert to: 2
+255 is represented in Base-2 as 11111111
+Enter number to be converted: 65535
+Enter base to convert to: 16
+65535 is represented in Base-16 as FFFF
+Enter number to be converted: 2147483647
+Enter base to convert to: 2
+2147483647 is represented in Base-2 as 1111111111111111111111111111111
+Enter number to be converted: 33975
+Enter base to convert to: 5
+33975 is represented in Base-5 as 2041400
+Enter number to be converted: 760976
+Enter base to convert to: 9
+760976 is represented in Base-9 as 1378768
+Enter number to be converted: 67868903
+Enter base to convert to: 10
+67868903 is represented in Base-10 as 67868903
+Enter number to be converted: 86
+Enter base to convert to: 33
+86 is represented in Base-33 as 2K
+Enter number to be converted: 100100100
+Enter base to convert to: 3
+100100100 is represented in Base-3 as 20222100121112010
+Enter number to be converted: 2147483647
+Enter base to convert to: 35
+2147483647 is represented in Base-35 as 15V22UM
+Enter number to be converted: 17
+Enter base to convert to: 8
+17 is represented in Base-8 as 21

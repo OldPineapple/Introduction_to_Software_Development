@@ -1,0 +1,88 @@
+Name:Hanwen Wang  ID:260778557
+
+Simple File Listing Program
+Enter name of file to list: Names.txt
+
+File in sort order:
+
+Allbright RenitaArner Kortney
+Aylor Francene
+Benes DoretheaBoyette Dara
+Britto TeishaButcher CristobalCassady Shantelle
+Cranford Tasia
+Daggett YuonneDenning CalebDuff Suzanna
+Ennals BillyFollett Edward
+Foor Loree
+Freeze Clarisa
+Galentine DanteGreenlee Marvella
+Gutierez SaritaHamel Eleanora
+Harbison KamalaJenkinson Lavinia
+Kohls Kerstin
+Lally LuciaLamarr VandaLanoue Kristyn
+Leasure FilomenaMackay SammieMango Barton
+Manzi DeweyMarsch Kori
+Mclees AlonaMushrush FelicitaNovack Mariann
+Plaisted DiannePoll Matilda
+Pop AnikaQuaranta Luba
+Roza Tamie
+Saulnier JoleenSia Holley
+Spece Matilde
+Stutes NiaTait SuziTamplin Adria
+Thibodaux   HyonWojtowicz Yvette
+Wolford StasiaWoll Jay
+Woolery Ciera
+File in reverse sort order:
+
+Woolery Ciera
+Woll Jay
+Wolford Stasia
+Wojtowicz Yvette
+Thibodaux   Hyon
+Tamplin Adria
+Tait Suzi
+Stutes Nia
+Spece Matilde
+Sia Holley
+Saulnier Joleen
+Roza Tamie
+Quaranta Luba
+Pop Anika
+Poll Matilda
+Plaisted Dianne
+Novack Mariann
+Mushrush Felicita
+Mclees Alona
+Marsch Kori
+Manzi Dewey
+Mango Barton
+Mackay Sammie
+Leasure Filomena
+Lanoue Kristyn
+Lamarr Vanda
+Lally Lucia
+Kohls Kerstin
+Jenkinson Lavinia
+Harbison Kamala
+Hamel Eleanora
+Gutierez Sarita
+Greenlee Marvella
+Galentine Dante
+Freeze Clarisa
+Foor Loree
+Follett Edward
+Ennals Billy
+Duff Suzanna
+Denning Caleb
+Daggett Yuonne
+Cranford Tasia
+Cassady Shantelle
+Butcher Cristobal
+Britto Teisha
+Boyette Dara
+Benes Dorethea
+Aylor Francene
+Arner Kortney
+Allbright Renita
+
+
+Program terminated
