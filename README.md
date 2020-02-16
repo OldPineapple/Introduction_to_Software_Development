@@ -1,1 +1,2 @@
-# Introduction_to_Software_Development
+# Introduction to Software Development
+This is for course ECSE202.
